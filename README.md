@@ -11,5 +11,3 @@ The loss score ranks Top 23 on leaderboard among all participated teams.
 ![image](https://user-images.githubusercontent.com/52313685/148672339-947345cf-ec84-4af0-8eb6-d187f78f5fb8.png)
 
 ![image](https://user-images.githubusercontent.com/52313685/148672362-f72f6d62-6eea-4747-a469-0d65f5db35b3.png)
-
-The code is produced by me, reviewed and refined by my teammate Lucas Liu.
