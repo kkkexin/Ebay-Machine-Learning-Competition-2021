@@ -6,8 +6,10 @@ payment date (local time) + delivery calendar days = delivery date (local time).
 
 The final model chosen here is the Catboost model, resulting in a **0.486** loss score on quiz dataset provided by Ebay, meaning the model predicted delivery date is on average 0.486 days away from the actual delivery date. The baseline loss Ebay sets for all competitors is **0.758**.
 
-The loss score ranks Top 23 on leaderboard among all participated teams.The code is produced by me, reviewed and refined by my teammate Lucas Liu.
+The loss score ranks Top 23 on leaderboard among all participated teams.
 
 ![image](https://user-images.githubusercontent.com/52313685/148672339-947345cf-ec84-4af0-8eb6-d187f78f5fb8.png)
 
 ![image](https://user-images.githubusercontent.com/52313685/148672362-f72f6d62-6eea-4747-a469-0d65f5db35b3.png)
+
+The code is produced by me, reviewed and refined by my teammate Lucas Liu.
