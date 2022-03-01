@@ -1,4 +1,4 @@
-# Ebay-Machine-Learning-Competition-2021
+# ebay-Machine-Learning-Competition-2021
 The code uses data provided by Ebay (15 million training + 2.5 million quiz) to predict Ebay delivery date. Models used here include Catboost, Ridge, etc.
 
 The objective is to estimate the total number of calendar days (after payment) it will take to have a purchased item show up at the buyer’s address. This is equivalent to estimating the delivery date using the formula:
